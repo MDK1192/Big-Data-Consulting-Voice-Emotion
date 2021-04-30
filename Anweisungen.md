@@ -1,4 +1,8 @@
-# Die Stimmungserkennung: Die Klassifizierung der .wav-Dateien über den Browser
+## Die Stimmungserkennung: Die Klassifizierung der .wav-Dateien über den Browser
+
+
+
+
 
 Die Applikation klassifiziert audio-files im Format .wav . Die Daten weiden in den Spektogramm umwandelt, dann über Pytoch oder Keras-Modell klassifiziert.
 Insgesumt 8 Klassen: 0:'neutral', 1:'calm', 2:'happy', 3:'sad', 4:'angry', 5:'fear', 6:'disgust', 7:'surprise'
