@@ -1,4 +1,4 @@
-### Die Stimmungserkennung: Die Klassifizierung der .wav-Dateien über den Browser
+### Die Klassifizierung der .wav-Dateien über den Browser
 
 
 #### Die Applikation klassifiziert audio-files im Format .wav . Die Daten weiden in den Spektogramm umwandelt, dann über Pytoch oder Keras-Modell klassifiziert.
